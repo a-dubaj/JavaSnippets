@@ -8,6 +8,6 @@ package com.andrzejdubaj.javasnippets;
 public class JavaSnippets {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
