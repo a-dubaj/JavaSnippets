@@ -3,7 +3,6 @@ package Calculating;
 import java.util.Scanner;
 
 /**
- *
  * @author Andrzej Dubaj
  */
 public class Calculating {
