@@ -5,7 +5,7 @@ public class Loop {
         int number = 1;
         while (true) {
             System.out.println(number);
-            if (number >= 5) {
+            if (number >= 59) {
                 break;
             }
             number = number + 1;
